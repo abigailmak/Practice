@@ -10,3 +10,5 @@ Code Coverage Percentage =
 (Number of lines of code executed)/(Total Number of lines of code in an application) * 100
 
 We can worry about calculating code coverage after you learn to code :)
+
+The first thing I'm going to be teaching you is how to manipulate a terminal. Every computer has a terminal. A terminal is a text-based interface that allows users to interact with a computer by entering commands and viewing the results.
